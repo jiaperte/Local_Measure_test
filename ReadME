@@ -1,0 +1,3 @@
+0. Python implementation lives in python folder, Golang implementation lives in go folder.
+1. For python solution run testcode with command: python3 -m unittest -v test 
+2. For golang solution run testcode with command: go run test 
